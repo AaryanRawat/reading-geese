@@ -1,0 +1,13 @@
+12/12/2023
+1. Finish creating all categories
+2. Create roles
+3. Set up all rules
+4. Publish all rules
+5. Automate updates
+6. Make invite
+7. Research how to properly run a discord server
+8. Figure out how to use git properly to deal with updates and to-do so you don't need
+to use a text file like someone from the 90s.
+11. Make reading recommendation list
+12. Publish reading circle system
+13. Advertise

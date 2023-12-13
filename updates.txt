@@ -1,0 +1,3 @@
+Created Server 12/12/2023
+Added more channels 12/12/2023
+Restructured categories and set base rules 12/12/2023
